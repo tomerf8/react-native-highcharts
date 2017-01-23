@@ -19,17 +19,9 @@
     "WebView",
     "HighCharts"
   ],
-  "author": "Infinity0106",
+  "author": "tomerf8",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TradingPal/react-native-highcharts/issues"
+    "url": "https://github.com/tomerf8/react-native-highcharts/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/Infinity0106/react-native-chart-view#readme",
-  "dependencies": {
-    "firebase": "^3.6.3"
-  }
-=======
-  "homepage": "https://github.com/TradingPal/react-native-highcharts#readme"
->>>>>>> c5af6c708a865d8bc8d775e2676ab3cabbfafcfe
 }
